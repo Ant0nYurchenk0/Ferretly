@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "bob",
+    "Gender": "male",
+    "DateOfBirth": "2001-01-01"
+  },
+  {
+    "Name": "alice",
+    "Gender": "female",
+    "DateOfBirth": "2002-02-02"
+  }
+]
